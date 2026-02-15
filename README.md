@@ -19,12 +19,8 @@ A dynamic background theme switcher built with React.
 
 ## Learning Concepts Practiced
 
-- Lazy state initialization
 - Side effects with useEffect
 - Event listeners in React
-- Cleanup functions
 - LocalStorage persistence
 - Controlled component architecture
-
-## How to Run
 
