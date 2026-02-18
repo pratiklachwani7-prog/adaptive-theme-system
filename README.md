@@ -31,4 +31,4 @@ This project demonstrates real-time theme switching, system dark/light mode dete
 
 ## 📸 UI Preview
 
-![Adaptive Theme System Preview](./screenshots/adaptive-theme-system-preview.png)
+![Adaptive Theme System Preview](./screenshots/adaptive-theme-system.png)
